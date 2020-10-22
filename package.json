@@ -1,6 +1,6 @@
 {
   "name": "@pure-function/documentation-theme-light",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "light theme for Documentation.js",
   "publishConfig": {
     "access": "public"
