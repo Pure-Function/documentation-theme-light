@@ -1,4 +1,4 @@
-<section id='<%- slug(section.namespace) %>'class='mt2 mb2 px3 py1 keyline-top'>
+<section id='<%- slug(section.namespace) %>'class='mt2 mr2 mb2 px3 py1 keyline-top fill-white'>
 
 	<div class='right py2'>
 		<% if (section.augments && section.augments.length) { %>

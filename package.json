@@ -1,5 +1,5 @@
 {
-  "name": "@pure-function/documentation-theme-light",
+  "name": "@funq/documentation-theme-light",
   "version": "1.1.7",
   "description": "light theme for Documentation.js",
   "publishConfig": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pure-function/documentation-theme-light"
+    "url": "https://github.com/funq/documentation-theme-light"
   },
   "keywords": [
     "documentation.js",
@@ -25,13 +25,17 @@
   ],
   "author": "Maya Gao",
   "license": "MIT",
-  "homepage": "https://github.com/pure-function/documentation-theme-light",
+  "homepage": "https://github.com/funq/documentation-theme-light",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "rimraf": "^3.0.2",
     "sass": "^1.27.0"
   },
   "dependencies": {
-    "anchor-js": "^4.2.2"
+    "anchor-js": "^4.2.2",
+    "documentation": "^13.0.2",
+    "github-slugger": "^1.3.0",
+    "vinyl": "^2.2.1",
+    "vinyl-fs": "^3.0.3"
   }
 }

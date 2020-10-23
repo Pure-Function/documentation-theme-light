@@ -77,7 +77,7 @@
 
 			</div>
 		</div>
-		<div class='sm-col-12 md-col-9 lg-col-9 flex flex-column'>
+		<div class='sm-col-12 md-col-9 lg-col-9 flex flex-column fill-light'>
 			<div class='flex-auto full-width'>
 				<% docs.forEach(function(s) { %>
 				<% if (s.kind === 'note' && !s.children) { %>

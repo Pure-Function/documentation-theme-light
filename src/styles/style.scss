@@ -76,7 +76,12 @@ th.small { font-size: 0.8rem; }
 li { margin-top: 10px; }
 .keyline-all { border: 1px solid #7D7D7D; }
 .keyline-light { border: 1px solid #E0E0E0; }
-.fill-light { background: #efefef; }
+.fill-light {
+  background: #efefef;
+}
+.fill-white {
+  background: #ffffff;
+}
 li > code,
 p > code,
 td > code > a{
